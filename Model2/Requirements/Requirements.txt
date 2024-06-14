@@ -1,0 +1,28 @@
+﻿You are asked to develop a Windows Forms application for managing the participants at a music festival. 
+(3p)   
+▪ Define the Participant class with the properties Id (int - constant), Name (string), Email (string), 
+BirthDate (DateTime) and Concerts (List<string>). The class should contain a parametrized 
+constructor.  
+▪ The instances of the class will be stored in a List<T> collection and will be displayed in the main form 
+using a DataGridView control. 
+▪ An array of strings containing the names of 5 concerts, at your choice, named concertArray, will be 
+declared and initialized in the main form. 
+(2p) 
+▪ The instances of the Participant class will be added using a secondary form, that will implement any 
+necessary validations. The user will be able to choose the concerts that the participant is planning to 
+attend using a CheckedListBox control, populated with the values in the concertArray.  
+▪ The user will be given the possibility to either modify (double click) or delete the records. 
+(1p)   
+▪ Implement the explicit int cast operator in order to return the number of concerts that each participant 
+intends to attend. Add a button to the main form that will display in a read-only TextBox the total 
+number of expected participations to all the concerts.  
+(2p) 
+▪ The list of participants will be automatically loaded when the application starts with the values 
+retrieved from a database (Access, SQLServer sau SQLite). All the operations (add, update, delete) 
+will be persisted to the database. 
+(1p) 
+▪ Implement the IComparable<T> / IComparable interface in order to sort the participants in 
+ascending order based on their Name. The list of participants should be kept sorted all the time. 
+(1p) 
+▪ Add a MenuStrip control that will allow the user to exit the application and to save a text based 
+report of the participants in a file located using the SaveFileDialog dialog.

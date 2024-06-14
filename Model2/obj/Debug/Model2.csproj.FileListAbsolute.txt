@@ -1,0 +1,14 @@
+C:\Users\Andra\source\repos\Model2\Model2\bin\Debug\Model2.exe.config
+C:\Users\Andra\source\repos\Model2\Model2\bin\Debug\Model2.exe
+C:\Users\Andra\source\repos\Model2\Model2\bin\Debug\Model2.pdb
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.csproj.AssemblyReference.cache
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.AddParticipantForm.resources
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.MainForm.resources
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.Properties.Resources.resources
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.csproj.GenerateResource.cache
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.csproj.CoreCompileInputs.cache
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.exe
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.pdb
+C:\Users\Andra\source\repos\Model2\Model2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andra\source\repos\Model2\Model2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andra\source\repos\Model2\Model2\obj\Debug\Model2.csproj.Up2Date
