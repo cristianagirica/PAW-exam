@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRegistration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Registration>
+    <CompanyName>Rux srl</CompanyName>
+    <NoOfPasses>2</NoOfPasses>
+    <AccessPackageId>2</AccessPackageId>
+  </Registration>
+  <Registration>
+    <CompanyName>Tia srl</CompanyName>
+    <NoOfPasses>8</NoOfPasses>
+    <AccessPackageId>2</AccessPackageId>
+  </Registration>
+  <Registration>
+    <CompanyName>Luca srl</CompanyName>
+    <NoOfPasses>5</NoOfPasses>
+    <AccessPackageId>3</AccessPackageId>
+  </Registration>
+</ArrayOfRegistration>
