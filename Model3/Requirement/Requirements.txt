@@ -1,0 +1,27 @@
+﻿You are asked to develop a Windows Forms application for a small shop. The shop sells various products 
+organized in several categories. 
+(2.5p)   
+▪ Define the Category class with the properties Id (int) and Name (string). Define the Product class 
+with the properties Id (int), Name (string), Units (int), Price (double) and CategoryId (int). The classes 
+should contain parametrized constructors. 
+▪ The categories will be loaded from the Categories.txt file. The text file should be created using a text 
+editor at your choice and should contain 3 entries. 
+(2.5p) 
+▪ The instances of the Product class will be added using a secondary form, that will implement the 
+necessary validations. The user will be able to choose the category of the product using a ComboBox 
+control. The instances of the class will be stored in a List<T> collection and will be displayed in the 
+main form using a ListView or a DataGridView control. 
+▪ The user will be given the possibility to either modify or delete the records. 
+(1p)   
+▪ Implement the explicit double cast operator for the Product class in order to calculate the price for all 
+the units (Price * Units).  Display the total price for all the products using a MessageBox when the user 
+chooses the corresponding option in a MenuStrip control. 
+(2p) 
+▪ (1p) The list of products will be automatically loaded when the application starts with the values 
+retrieved from a database (Access, SQLServer sau SQLite).  
+▪ (1p) All the operations (add, update, delete) will be persisted to the database. 
+(1p) 
+Implement the IComparable<T> / IComparable interface in order to sort the products in ascending 
+order based on their Name. The list of products should be kept sorted all the time. 
+(1p) 
+▪ In a secondary form, draw a simple chart containing the number of products in each category.
