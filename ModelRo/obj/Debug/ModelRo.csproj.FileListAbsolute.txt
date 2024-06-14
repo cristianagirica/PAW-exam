@@ -1,0 +1,15 @@
+C:\Users\Andra\source\repos\ModelRo\ModelRo\bin\Debug\ModelRo.exe.config
+C:\Users\Andra\source\repos\ModelRo\ModelRo\bin\Debug\ModelRo.exe
+C:\Users\Andra\source\repos\ModelRo\ModelRo\bin\Debug\ModelRo.pdb
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.csproj.AssemblyReference.cache
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.AddSmartphonesForm.resources
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.MainForm.resources
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.Properties.Resources.resources
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.csproj.GenerateResource.cache
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.csproj.CoreCompileInputs.cache
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.exe
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.pdb
+C:\Users\Andra\source\repos\ModelRo\ModelRo\bin\Debug\database.db
+C:\Users\Andra\source\repos\ModelRo\ModelRo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andra\source\repos\ModelRo\ModelRo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andra\source\repos\ModelRo\ModelRo\obj\Debug\ModelRo.csproj.Up2Date

@@ -1,0 +1,19 @@
+﻿Sã se realizeze o aplicatie Windows Forms destinat unui magazin care comercializeaza telefoane mobile.
+Se vor declara clasele Smartphone (id, model, unitti pe stoc, pret, data aparitiei, idProducator) si Producator (id, denumire).
+1p oficiu +
+(0.5p) Pentru clasa Producator, datele pentru instantierea de obiecte se vor prelua in mod automat la lansarea 
+aplicatiei dintr-un fisier de tip text, construit in prealabil, care contine minim 5 inregistrari. 
+(1p) Instantele clasei Smartphone vor fi stocate n aplicatie cu ajutorul unei colectii standard si vor fi 
+afisate în formularul principal prin intermediul unui control de tip DataGridView.
+(1.5p) Adăugarea de noi instante ale clasei Smartphone se va realiza prin intermediul unui formular secundar. 
+Se va asigura validarea informatiilor introduse de utilizator si semnalarea eventualelor erori cu ajutorul controlelor 
+de tip ErrorProvider. Aplicatia va rula fara erori, indiferent de datele introduse de utilizator.
+(1.5р) Prin intermediul unui meniu contextual asociat controlului de tip DataGridView se va oferi posibilitatea 
+de a modifica si de a sterge instantele afisate in acesta. Modificarea instantelor se va realiza cu ajutorul unui 
+formular secundar.
+(1.5р) Implementati interfata /Comparable<T> pentru a sorta obiectele aferente clasei Smartphone după două criterii 
+la alegere. Mentineti lista afisat in formularul principal sortat in permanenta. 
+(2p) Aplicatia va încărca n mod automat la pornire lista de telefone dintr-o bazã de date relatională.
+Denumirea bazei de date si locatia ei se considera cunoscute.
+(1p) Se va implementa operatorul de cast explicit la int pentru a returna numãrul de unitäti disponibile 
+pentru un model de telefon. Utilizati operatorul pentru a afisa cu ajutorul unui MessageBox numärul total de telefoane.

@@ -1,0 +1,5 @@
+﻿1,Samsung
+2,Apple
+3,Huawei
+4,Motorola
+5,Blackberry
